@@ -1,0 +1,47 @@
+﻿Toxicity in news articles
+
+
+Perspective API defines toxicity as "rude, disrespectful, or unreasonable content". It
+returns a toxicity score (out of 1) where a high score denotes more toxic content.
+Some toxic news excerpts from our dataset are given here:
+
+
+● Opinion pieces often reflect toxicity:
+eg.
+
+
+https://www.opindia.com/2020/04/how-to-debate-tablighi-jamaat-issue-corona
+virus-with-liberal-idiots/
+Perspective API toxicity score: 0.7162694
+
+
+Excerpts:
+
+
+"It is futile to debate anything with idiots, but they are fun to engage. So I’m
+back because ‘liberal’ idiots are back. These days they are busy washing
+away thook stains of Tablighi Jamaat."
+
+
+"You keep shouting “test test test” so go and test those Hindus who attended
+any event that you claim. Go on and prove your claim. And mind you, when
+you trace these people and go to test them, they will not throw stones at
+police, they will not break head of doctor, and they will not spit at nurses."
+
+
+● Even news reports reflect toxicity sometimes, when they are not written with a
+factual tone:
+eg.
+https://www.opindia.com/2020/04/mukhtar-abbas-naqvi-trolled-tablighi-jamaat
+-coronavirus-corona-warriors/
+Perspective API toxicity score: 0.60453844
+
+
+Excerpts:
+
+
+"However, if the gathering itself was irresponsible borne of a toxic mix of
+ignorance, stupidity, and callousness, the conduct of some of the Jamaatis
+that followed could only be attributed to their perversity. Some were also
+involved in attacking health workers, making bizarre demands and spitting on
+doctors."
