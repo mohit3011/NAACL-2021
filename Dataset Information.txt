@@ -1,0 +1,35 @@
+﻿Dataset Information
+
+
+* Geographical Distribution
+
+
+There are 1763 tweets with geolocation data. The distribution of tweets between countries is given as follows:
+
+
+India 821
+United States 197
+Pakistan 157
+United Kingdom 121
+Nigeria 94
+Canada 49
+Malaysia 27
+South Africa 21
+Australia 19
+United Arab Emirates 16
+People's Republic of China 16
+Sri Lanka 14
+Kingdom of Saudi Arabia 13
+Kenya 10
+Bangladesh 10
+
+
+* Chronological Distribution (Monthwise data)
+
+
+2020-02 (February 2020) : 105974
+2020-03 (March 2020): 70682
+2020-04 (April 2020): 161780
+2020-05 (May 2020) : 72554
+Total tweets: 
+410990
