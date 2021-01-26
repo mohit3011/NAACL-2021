@@ -1,0 +1,14 @@
+﻿List of hashtags used for creating the training dataset
+
+
+1. Positive : 
+   1.  ‘stoptargetingmuslims’, 'tablighiheroes', 'muslimlivesmatter', 'muslimsaviours', 'bringbacktablighiheroes', 'stopcovidislamophobia’, ‘standupformuslims’, 'indiamaltreatingmuslims', 'hindumuslimunity'
+2. Negative : 
+   1. Single words: 'tablighijamatvirus', 'nizamuddinidiots', 'islamiccoronajehad', 'nizamuddinfiasco', 'coronajihadi', 'jihadivirus', 'tablighivirus', 'biojihad', 'nizamuddinterrorists', 'coronajihadis', 'islamicvirus', 'muslimsspreadingcorona'
+   2. Double words: 'corona jihadi', 'bio jihad', 'corona jihadis', 'jihadi virus', 'tablighi virus'
+3. Others : 'islamophobia', 'coronajihad'
+
+
+
+
+Here positive refers to hashtags that were mostly used in tweets with positive sentiments towards Muslims. Negative hashtags were used in a negative sentiment and others are neutral hashtags.
